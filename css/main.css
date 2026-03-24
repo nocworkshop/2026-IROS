@@ -442,3 +442,16 @@ div.poster div.btn-group > button:first-of-type {
 .navbar > div:nth-of-type(1) {
   justify-content: center;
 }
+
+.organizer-card > .card-title {
+  padding-bottom: 6px;
+}
+
+.organizer-card > .list-group > .list-group-item {
+  font-size: 12px;
+  padding: 2px 4px 2px 4px;
+}
+
+.short-bio {
+  font-size: 12px;
+}
